@@ -143,8 +143,10 @@ To handle class imbalance:
 ---
 
 ## 13. Future Work
-- Implement additional deep learning models  
-- Apply data augmentation to address class imbalance  
-- Perform hyperparameter tuning  
-- Compare classical ML and deep learning performance
+
+- Week 4: Deploy the trained deep learning model for real-time plant disease classification  
+- Implement federated learning to enable decentralized model updates while preserving data privacy  
+- Apply further hyperparameter tuning and model optimization for deployment efficiency  
+- Explore additional data augmentation and advanced architectures to improve accuracy  
+- Compare performance between centralized and federated deployment approaches  
 
