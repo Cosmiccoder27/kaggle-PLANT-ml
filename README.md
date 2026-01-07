@@ -6,9 +6,17 @@
 ---
 
 ## 1. Project Overview
-This project focuses on building a complete image analysis and baseline machine learning pipeline for the PlantVillage plant disease dataset. The work covers dataset exploration, preprocessing, data integrity checks, statistical analysis, and a classical machine learning baseline using handcrafted features.
+This project is an end-to-end machine learning pipeline for plant disease classification using the PlantVillage dataset. The work covers all stages of a real-world ML workflow:
 
-The objective is to thoroughly understand the dataset before moving toward advanced deep learning approaches.
+- Dataset exploration, preprocessing, and integrity checks  
+- Statistical analysis and handling of class imbalance  
+- Classical machine learning baseline using handcrafted features  
+- Deep learning using Convolutional Neural Networks (CNNs)  
+- Transfer learning with pre-trained models for improved accuracy  
+- Model evaluation and comparison across methods  
+- Deployment-ready design, including considerations for federated learning  
+
+The objective is to build a complete pipeline that starts from raw data and ends with a deployable ML model capable of accurate plant disease classification.
 
 ---
 
